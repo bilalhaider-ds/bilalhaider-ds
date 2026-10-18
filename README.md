@@ -1,89 +1,29 @@
-<div align="center">
+### Bilal Haider
 
-<a href="https://linkedin.com/in/bilalhaider-ds">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Bilal+Haider;BS+Statistics+%2B+Data+Science;Applied+Machine+Learning+%26+Deep+Learning;Diagnostic+Data+Viz+%26+Statistical+EDA;Multimodal+GenAI+%26+Production+Pipelines" alt="Typing Banner" />
-</a>
+**Applied Machine Learning & Cloud Infrastructure (MLOps)**  
+BS Statistics (Data Science) @ University of the Punjab · Lahore, Pakistan
 
-<p align="center">
-  <b>Data Science Specialist & Applied Machine Learning Engineer</b><br>
-  University of the Punjab, Quaid-e-Azam Campus, Lahore (2023–2027)<br>
-  <i>Fusing classical statistical inference with modern deep learning and production full-stack AI orchestration.</i>
-</p>
+Building leakage-free statistical ML pipelines, multimodal GenAI systems, and reproducible cloud infrastructure on AWS and Linux.
 
-<p align="center">
-  <a href="https://linkedin.com/in/bilalhaider-ds"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/bilalhaider-ux"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-008080?style=for-the-badge&logo=google-maps&logoColor=white" alt="Lahore, Pakistan" />
-</p>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bilalhaider--ds-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilalhaider-ds)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
 
 ---
 
-### 🔬 Applied Engineering & Theoretical Moat
+### Engineering Focus & Stack
 
-* **Statistical Inference & Diagnostic EDA:** Parametric and non-parametric distribution modeling, hypothesis testing, outlier quantification (IQR/Z-score), and bivariate target grounding via Matplotlib and Seaborn to visually audit predictive signal and prevent leakage.
-* **Leakage-Free Predictive ML:** GBDT architectures (LightGBM, CatBoost) engineered with strict Out-of-Time (OOT) validation splits against lookahead bias, tuned via operational cost-benefit matrices.
-* **Generative AI & LLM Systems:** Multimodal document intelligence via Google Gemini 2.5 Flash, structured schema extraction, streaming response channels, and semantic retrieval (RAG).
-* **Full-Stack AI Delivery:** High-performance reactive clients in Next.js 14 and TypeScript backed by scalable API services built with FastAPI, Django, Node.js, and PostgreSQL.
-
----
-
-### 🛠️ Interactive Technology Arsenal
-
-<div align="center">
-
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,r,postgres,supabase,nextjs,react,ts,js,fastapi,django,php,docker,linux,git,github,vscode&perline=10&theme=dark" alt="Technical Arsenal" />
-</a>
-
-</div>
-
-<br>
-
-| Core Track | Stack & Libraries | Applied Focus |
+| Domain | Core Technologies | Architectural Standard |
 | :--- | :--- | :--- |
-| **Statistical Foundations & ML** | `Python`, `R`, `Scikit-Learn`, `LightGBM`, `CatBoost`, `Statsmodels`, `SciPy` | Hypothesis Testing, Distribution Modeling, OOT Temporal Splits, Cost Matrix Tuning |
-| **Diagnostic EDA & Visualization** | `Matplotlib`, `Seaborn`, `Plotly`, `Pandas`, `Polars` | Bivariate Target Grounding, Correlation Heatmaps, Outlier Isolation, Distribution KDEs |
-| **Deep Learning & GenAI** | `PyTorch`, `TensorFlow`, `Gemini 2.5 Flash`, `LangChain`, `Hugging Face` | Multimodal Processing, Token Streaming, Vector Embeddings, RAG Architectures |
-| **Full-Stack & Backend** | `Next.js 14`, `React`, `TypeScript`, `FastAPI`, `Django`, `Node.js`, `PHP` | Server Components (RSC), REST APIs, Type-Safe Mutations, Reactive Dashboards |
-| **Data Stores & Systems** | `PostgreSQL`, `Supabase`, `SQLite`, `Docker`, `Linux / Bash`, `Git` | Relational Schema Design, Transactional Integrity, Automated CI/CD Workflows |
+| **Statistical ML & Data** | `Python` `Polars` `Scikit-Learn` `LightGBM` `CatBoost` | Out-of-Time (OOT) validation, cost-matrix threshold tuning, Brier calibration, diagnostic EDA |
+| **Deep Learning & GenAI** | `PyTorch` `Google ADK` `Gemini 2.5` `Hugging Face` | Multi-agent orchestration, structured Pydantic contracts, hybrid retrieval, `@torch.inference_mode()` |
+| **Cloud & DevOps (MLOps)** | `AWS (VPC, EC2, AMI, IAM)` `Docker` `Linux` `GitHub Actions` | Staging/Prod environment isolation, least-privilege networking, automated CI/CD & containerized serving |
+| **Backend & Web Systems** | `FastAPI` `PostgreSQL` `Supabase` `Next.js` `TypeScript` | High-throughput async REST APIs, SARGable SQL pipelines, reactive analytics interfaces |
 
 ---
 
-### 🚀 Flagship Engineered Systems
+### Selected Systems
 
-| System | Focus Domain | Stack | Architectural Highlights |
-| :--- | :--- | :--- | :--- |
-| **[DocAudit AI](https://github.com/bilalhaider-ux/doc-audit-ai)** | Generative AI / LegalTech | `Next.js` `TypeScript` `Gemini 2.5` | Multi-page document audit pipeline parsing complex financial/legal agreements via streaming tokens and structured JSON schema validation. |
-| **[FraudLens](https://github.com/bilalhaider-ux/fraudlens)** | Applied ML / FinTech | `Python` `Scikit-Learn` `LightGBM` | Non-random Out-of-Time (OOT) validation framework preventing lookahead bias, tuned with custom false-positive/false-negative cost matrices. |
-| **[MediFlow HMS](https://github.com/bilalhaider-ux/mediflow-hms)** | HealthTech Infrastructure | `Node.js` `JavaScript` `PostgreSQL` | Relational clinical management system handling patient telemetry, admission workflows, and role-based records security. |
-| **[Trace The Ace](https://github.com/bilalhaider-ux/trace-the-ace-project)** | Algorithmic Core | `Python` `Statistical Testing` | Logic validation engine and empirical distribution simulation with deterministic state handling. |
-
----
-
-### 📈 Real-Time Activity Telemetry
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=bilalhaider-ux&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-
-</div>
-
----
-
-### 🐍 Contribution Activity Matrix
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bilalhaider-ux/bilalhaider-ux/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bilalhaider-ux/bilalhaider-ux/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake Matrix" src="https://raw.githubusercontent.com/bilalhaider-ux/bilalhaider-ux/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
----
-
-<div align="center">
-  <sub>Engineered by <b>Bilal Haider</b> • Built with precision in Lahore, Pakistan</sub>
-</div>
+- **[FraudLens](https://github.com/bilalhaider-ds)** — Transaction investigation & drift monitoring engine using Out-of-Time (OOT) validation and custom false-positive/false-negative cost matrices (`Python`, `LightGBM`, `FastAPI`).
+- **[DocuAudit AI](https://github.com/bilalhaider-ds)** — Multi-page legal/financial document audit pipeline with token streaming and strict JSON schema enforcement (`Gemini 2.5`, `TypeScript`, `Next.js`).
+- **[AWS Production Infrastructure](https://github.com/bilalhaider-ds/aws-ecommerce-deployment)** — Custom VPC architecture, isolated staging/production EC2 deployments, custom AMIs, and PostgreSQL backend configuration (`AWS`, `Linux`, `Bash`).
+- **[DataSnap](https://github.com/bilalhaider-ds)** — Automated statistical EDA engine auditing missingness structures (MCAR/MAR), IQR outlier volumes, and target-split distributions (`Polars`, `Pandas`, `Seaborn`).
